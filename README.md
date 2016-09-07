@@ -3,11 +3,11 @@ WebSocketServer
 
 これはwebsocketを使って各種通知を中継するArduinoプログラムです。
 
-## 使用環境
-本スケッチは、以下の環境で使用することを想定しています
+## Requirement
 
-* Target board: EsprOne(ESP8266)
-* Arduino Version: 1.6.9
+- Arduino Version: 1.6.9
+- Target board: EsprOne(ESP8266)
+
 
 ## Licence
 
